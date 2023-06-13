@@ -1,0 +1,10 @@
+* sb-vector-io
+
+Writing and reading raw vector data in SBCL
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nikodemus/sb-vector-io.git   |
+| commit  | b55e8bf  |
+| systems | sb-vector-io |
+|---------+-------------------------------------------|
+
